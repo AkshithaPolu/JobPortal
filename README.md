@@ -1,4 +1,4 @@
-# JobPortal
+# Mini Job Portal System - Core Java (Console-Based)
 ### **Project Overview**
 The Mini Job Portal System is a console-based application developed using Core Java that simulates a simplified online job portal. The system allows different types of users—Admin, Company, and Candidate—to interact with the portal based on their roles. This project is built without using any databases or frameworks, and all data is managed in-memory using Java Collections. It focuses on implementing Object-Oriented Programming (OOP) principles, role-based access, and validation logic through a menu-driven interface.
 
